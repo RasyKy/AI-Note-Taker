@@ -32,7 +32,7 @@ Install these before running the installer:
 ### 2. Clone and install
 
 ```
-git clone <repo-url>
+git clone https://github.com/RasyKy/AI-Note-Taker
 cd ai-note-taker
 ```
 
