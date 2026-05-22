@@ -1,0 +1,27 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Google OAuth -- never commit these
+credentials.json
+token.json
+.env
+
+# Claude Code local settings
+.claude/
+CLAUDE.md
+
+# Temp files generated at runtime
+_session.bat
+_launch.bat
+temp_audio/
+
+# Whisper / HuggingFace model cache
+.cache/
+
+# Editor
+.vscode/
+.idea/
+*.code-workspace

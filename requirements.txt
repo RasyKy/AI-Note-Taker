@@ -1,0 +1,12 @@
+faster-whisper
+pyaudiowpatch
+numpy
+psutil
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+requests
+openai
+scipy
+customtkinter
+tkinterdnd2
